@@ -89,11 +89,15 @@ The app includes a custom risk classification system:
 ## 📂 Project Structure
 
 ```
-medical-insurance-ml/
+medical-insurance/
 │
 ├── models/
-├── data/
-├── streamlit_app.py
+├── medi1.ipynb
+├── medi.ipynb
+├── medical_eda.csv
+├── moedical_insurance.csv
+├── medical_models.csv
+├── streamlit2.py
 ├── requirements.txt
 └── README.md
 ```
