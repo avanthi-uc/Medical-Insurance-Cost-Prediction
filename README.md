@@ -126,12 +126,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📎 Presentation
 
-Project presentation available in repository:
-`Medical_Insurance_ML_Project_Presentation.pptx`
-
----
 
 
 
